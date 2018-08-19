@@ -1,0 +1,2 @@
+require_relative 'exceptions/uninitialised_store_error'
+require_relative 'exceptions/rates_not_found_error'

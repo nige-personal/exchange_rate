@@ -1,0 +1,2 @@
+require_relative 'conversion_store_handlers/base'
+require_relative 'conversion_store_handlers/json_handler'
